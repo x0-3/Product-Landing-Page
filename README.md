@@ -1,6 +1,6 @@
 # Product-Landing-Page
 
-  
+  Site d'un landing page de produits avec medias queries.
 
 <br/>  
 
